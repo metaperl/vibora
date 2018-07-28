@@ -12,7 +12,7 @@ to be merged.
 
 3) Bug fixes must include tests that fail/pass in respective versions.
 
-4) PEP 8 must be followed with the exception of the
+4) [PEP 8](https://www.python.org/dev/peps/pep-0008/) must be followed with the exception of the
 max line size which is currently 120 instead of 80 chars wide.
 
 ### Reporting an issue
